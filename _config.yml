@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Festival Queensport"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
+subtitle                 : "So much fun, you'll never leave."
+name                     : "Nyarlathotep Entertainment Ltd."
+description              : "An amusement park on a pristine tropical island where you and your family will have a vacation you will be incapable of forgetting"
 url                      : "https://bokov.github.io"
 baseurl                  : "/minimal-mistakes"
 repository               : "bokov/minimal-mistakes"
@@ -104,7 +104,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Nyarlathotep Entertainment Ltd."
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
   location         : "Somewhere"
