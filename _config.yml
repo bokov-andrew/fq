@@ -276,6 +276,9 @@ compress_html:
   ignore:
     envs: development
 
+collections:
+  jobs:
+    output: true
 
 # Defaults
 defaults:
