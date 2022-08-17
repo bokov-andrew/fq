@@ -19,7 +19,7 @@ feature_row:
   - image_path: https://thumbnails.production.thenounproject.com/RfKVp2rkeVNBgcHogpONczoKJVI=/fit-in/1000x1000/photos.production.thenounproject.com/photos/19C4D580-1548-4E88-A1C0-E1FD24514C27.jpg
     alt: "Petting Zoo!"
     title: "Petting Zoo!"
-    excerpt: "Built with HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
+    excerpt: "Come along and pet all of our cute scaly little animals!"
     url: "/docs/layouts/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
