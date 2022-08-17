@@ -30,7 +30,7 @@ feature_row:
     url: "/docs/license/"
     btn_class: "btn--primary"
     btn_label: "Learn more" 
-  - image_path: 
+  - image_path: https://st2.depositphotos.com/1031343/9264/v/950/depositphotos_92649546-stock-illustration-now-hiring-stamp.jpg
     alt: "apply now!"
     title: "Apply now"
     excerpt: "now hiring!"
