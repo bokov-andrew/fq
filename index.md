@@ -34,7 +34,7 @@ feature_row:
     alt: "apply now!"
     title: "Apply now"
     excerpt: "now hiring!"
-    url: "/docs/configuration/"
+    url: "/jobs/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
 ---
