@@ -16,14 +16,14 @@ feature_row:
     url: "/docs/configuration/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/mm-responsive-feature.png
+  - image_path: https://thumbnails.production.thenounproject.com/RfKVp2rkeVNBgcHogpONczoKJVI=/fit-in/1000x1000/photos.production.thenounproject.com/photos/19C4D580-1548-4E88-A1C0-E1FD24514C27.jpg
     alt: "Petting Zoo!"
     title: "Petting Zoo!"
     excerpt: "Built with HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
     url: "/docs/layouts/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/mm-free-feature.png
+  - image_path: https://thumbnails.production.thenounproject.com/khkUkkV_QQaJkLRi7_kNYUCEIU0=/fit-in/1000x1000/photos.production.thenounproject.com/photos/DC4B8767-B08B-485C-9148-CC8C39C54502.jpg
     alt: "Gateway to Adventure!"
     title: "Gateway to Adventure!"
     excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it... whatever!"
