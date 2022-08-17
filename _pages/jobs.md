@@ -2,7 +2,7 @@
 title: jobs
 layout: collection
 permalink: /jobs/
-collection: _jobs
+collection: jobs
 entries_layout: grid
 classes: wide
 ---
