@@ -6,8 +6,8 @@ header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/mm-home-page-feature.jpg
 excerpt: >
-  Don't let the quiet beaches of Queensport Island fool you! Nestled in the heart of this tropical paradise is a theme park that will drive you insane with thrills and spills!<br />
-  <small><small>Might not be appropriate for infants, small children, adolescents, teenagers, adults of child-bearing age, the elderly, or those with a sensitivity to flashing lights, rapid transdimensional travel, extreme heat and cold, or ionizing radiation.</small></small>
+  Don't let the quiet beaches of Queensport Island fool you! Nestled in the heart of this tropical paradise is a theme park that will drive you insane with thrills and spills!* <br />
+  <small><small>*Might not be appropriate for infants, small children, adolescents, teenagers, adults of child-bearing age, the elderly, or those with a sensitivity to flashing lights, rapid transdimensional travel, extreme heat and cold, or ionizing radiation.</small></small>
 feature_row:
   - image_path: https://live.staticflickr.com/65535/50514989341_b6400b2c89_h.jpg
     alt: "Water Park!"
